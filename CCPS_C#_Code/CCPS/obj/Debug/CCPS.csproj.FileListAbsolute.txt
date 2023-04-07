@@ -1,0 +1,96 @@
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\CCPS\CCPS\bin\Debug\CCPS.exe.config
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\CCPS\CCPS\bin\Debug\CCPS.exe
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\CCPS\CCPS\bin\Debug\CCPS.pdb
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\CCPS\CCPS\obj\Debug\CCPS.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\CCPS\CCPS\obj\Debug\CCPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\CCPS\CCPS\obj\Debug\CCPS.Properties.Resources.resources
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\CCPS\CCPS\obj\Debug\CCPS.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\CCPS\CCPS\obj\Debug\CCPS.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\CCPS\CCPS\obj\Debug\CCPS.exe
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\CCPS\CCPS\obj\Debug\CCPS.pdb
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\CCPS\CCPS\obj\Debug\CCPS.ccpsHome.resources
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\CCPS\CCPS\obj\Debug\CCPS.ccpsSetup.resources
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\1\CCPS\CCPS\bin\Debug\CCPS.exe.config
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\1\CCPS\CCPS\bin\Debug\CCPS.exe
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\1\CCPS\CCPS\bin\Debug\CCPS.pdb
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\1\CCPS\CCPS\obj\Debug\CCPS.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\1\CCPS\CCPS\obj\Debug\CCPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\1\CCPS\CCPS\obj\Debug\CCPS.ccpsHome.resources
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\1\CCPS\CCPS\obj\Debug\CCPS.ccpsSetup.resources
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\1\CCPS\CCPS\obj\Debug\CCPS.Properties.Resources.resources
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\1\CCPS\CCPS\obj\Debug\CCPS.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\1\CCPS\CCPS\obj\Debug\CCPS.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\1\CCPS\CCPS\obj\Debug\CCPS.exe
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\1\CCPS\CCPS\obj\Debug\CCPS.pdb
+C:\Users\Dell\Desktop\Project\1\CCPS\CCPS\bin\Debug\CCPS.exe.config
+C:\Users\Dell\Desktop\Project\1\CCPS\CCPS\bin\Debug\CCPS.exe
+C:\Users\Dell\Desktop\Project\1\CCPS\CCPS\bin\Debug\CCPS.pdb
+C:\Users\Dell\Desktop\Project\1\CCPS\CCPS\obj\Debug\CCPS.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Project\1\CCPS\CCPS\obj\Debug\CCPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Project\1\CCPS\CCPS\obj\Debug\CCPS.ccpsHome.resources
+C:\Users\Dell\Desktop\Project\1\CCPS\CCPS\obj\Debug\CCPS.ccpsSetup.resources
+C:\Users\Dell\Desktop\Project\1\CCPS\CCPS\obj\Debug\CCPS.Properties.Resources.resources
+C:\Users\Dell\Desktop\Project\1\CCPS\CCPS\obj\Debug\CCPS.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Project\1\CCPS\CCPS\obj\Debug\CCPS.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Project\1\CCPS\CCPS\obj\Debug\CCPS.exe
+C:\Users\Dell\Desktop\Project\1\CCPS\CCPS\obj\Debug\CCPS.pdb
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\2\CCPS\CCPS\bin\Debug\CCPS.exe.config
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\2\CCPS\CCPS\bin\Debug\CCPS.exe
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\2\CCPS\CCPS\bin\Debug\CCPS.pdb
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\2\CCPS\CCPS\obj\Debug\CCPS.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\2\CCPS\CCPS\obj\Debug\CCPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\2\CCPS\CCPS\obj\Debug\CCPS.ccpsHome.resources
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\2\CCPS\CCPS\obj\Debug\CCPS.ccpsSetup.resources
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\2\CCPS\CCPS\obj\Debug\CCPS.Properties.Resources.resources
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\2\CCPS\CCPS\obj\Debug\CCPS.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\2\CCPS\CCPS\obj\Debug\CCPS.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\2\CCPS\CCPS\obj\Debug\CCPS.exe
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\2\CCPS\CCPS\obj\Debug\CCPS.pdb
+C:\Users\Dell\Desktop\Project\2\CCPS\CCPS\bin\Debug\CCPS.exe.config
+C:\Users\Dell\Desktop\Project\2\CCPS\CCPS\bin\Debug\CCPS.exe
+C:\Users\Dell\Desktop\Project\2\CCPS\CCPS\bin\Debug\CCPS.pdb
+C:\Users\Dell\Desktop\Project\2\CCPS\CCPS\obj\Debug\CCPS.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Project\2\CCPS\CCPS\obj\Debug\CCPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Project\2\CCPS\CCPS\obj\Debug\CCPS.ccpsHome.resources
+C:\Users\Dell\Desktop\Project\2\CCPS\CCPS\obj\Debug\CCPS.ccpsSetup.resources
+C:\Users\Dell\Desktop\Project\2\CCPS\CCPS\obj\Debug\CCPS.Properties.Resources.resources
+C:\Users\Dell\Desktop\Project\2\CCPS\CCPS\obj\Debug\CCPS.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Project\2\CCPS\CCPS\obj\Debug\CCPS.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Project\2\CCPS\CCPS\obj\Debug\CCPS.exe
+C:\Users\Dell\Desktop\Project\2\CCPS\CCPS\obj\Debug\CCPS.pdb
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\3\CCPS\CCPS\bin\Debug\CCPS.exe.config
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\3\CCPS\CCPS\bin\Debug\CCPS.exe
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\3\CCPS\CCPS\bin\Debug\CCPS.pdb
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\3\CCPS\CCPS\obj\Debug\CCPS.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\3\CCPS\CCPS\obj\Debug\CCPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\3\CCPS\CCPS\obj\Debug\CCPS.ccpsHome.resources
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\3\CCPS\CCPS\obj\Debug\CCPS.ccpsSetup.resources
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\3\CCPS\CCPS\obj\Debug\CCPS.Properties.Resources.resources
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\3\CCPS\CCPS\obj\Debug\CCPS.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\3\CCPS\CCPS\obj\Debug\CCPS.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\3\CCPS\CCPS\obj\Debug\CCPS.exe
+C:\Users\Dell\Desktop\Computer Controlled Power Supply - Elec Researsch Project\3\CCPS\CCPS\obj\Debug\CCPS.pdb
+C:\Users\Dell\Desktop\Project\3\CCPS\CCPS\bin\Debug\CCPS.exe.config
+C:\Users\Dell\Desktop\Project\3\CCPS\CCPS\bin\Debug\CCPS.exe
+C:\Users\Dell\Desktop\Project\3\CCPS\CCPS\bin\Debug\CCPS.pdb
+C:\Users\Dell\Desktop\Project\3\CCPS\CCPS\obj\Debug\CCPS.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Project\3\CCPS\CCPS\obj\Debug\CCPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Project\3\CCPS\CCPS\obj\Debug\CCPS.ccpsHome.resources
+C:\Users\Dell\Desktop\Project\3\CCPS\CCPS\obj\Debug\CCPS.ccpsSetup.resources
+C:\Users\Dell\Desktop\Project\3\CCPS\CCPS\obj\Debug\CCPS.Properties.Resources.resources
+C:\Users\Dell\Desktop\Project\3\CCPS\CCPS\obj\Debug\CCPS.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Project\3\CCPS\CCPS\obj\Debug\CCPS.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Project\3\CCPS\CCPS\obj\Debug\CCPS.exe
+C:\Users\Dell\Desktop\Project\3\CCPS\CCPS\obj\Debug\CCPS.pdb
+C:\Users\Dell\Desktop\Project\Computer Controlled Power Supply\CCPS\CCPS\bin\Debug\CCPS.exe.config
+C:\Users\Dell\Desktop\Project\Computer Controlled Power Supply\CCPS\CCPS\bin\Debug\CCPS.exe
+C:\Users\Dell\Desktop\Project\Computer Controlled Power Supply\CCPS\CCPS\bin\Debug\CCPS.pdb
+C:\Users\Dell\Desktop\Project\Computer Controlled Power Supply\CCPS\CCPS\obj\Debug\CCPS.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Project\Computer Controlled Power Supply\CCPS\CCPS\obj\Debug\CCPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Project\Computer Controlled Power Supply\CCPS\CCPS\obj\Debug\CCPS.ccpsHome.resources
+C:\Users\Dell\Desktop\Project\Computer Controlled Power Supply\CCPS\CCPS\obj\Debug\CCPS.ccpsSetup.resources
+C:\Users\Dell\Desktop\Project\Computer Controlled Power Supply\CCPS\CCPS\obj\Debug\CCPS.Properties.Resources.resources
+C:\Users\Dell\Desktop\Project\Computer Controlled Power Supply\CCPS\CCPS\obj\Debug\CCPS.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Project\Computer Controlled Power Supply\CCPS\CCPS\obj\Debug\CCPS.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Project\Computer Controlled Power Supply\CCPS\CCPS\obj\Debug\CCPS.exe
+C:\Users\Dell\Desktop\Project\Computer Controlled Power Supply\CCPS\CCPS\obj\Debug\CCPS.pdb
