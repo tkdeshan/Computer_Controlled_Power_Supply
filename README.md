@@ -1,1 +1,1 @@
-"# Computer_Controlled_Power_Supply" 
+# Computer_Controlled_Power_Supply
