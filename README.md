@@ -5,3 +5,7 @@ This is a computer controlled power supply that operate using GUI. Using this po
 
 ![View](https://github.com/tkdeshan/Computer_Controlled_Power_Supply/blob/main/CCPS_Overview/view.png)
 
+![View](https://github.com/tkdeshan/Computer_Controlled_Power_Supply/blob/main/CCPS_Overview/ss1.png)
+
+![View](https://github.com/tkdeshan/Computer_Controlled_Power_Supply/blob/main/CCPS_Overview/ss2.png)
+
