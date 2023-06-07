@@ -9,3 +9,4 @@ This is a computer controlled power supply that operate using GUI. Using this po
 
 ![View](https://github.com/tkdeshan/Computer_Controlled_Power_Supply/blob/main/CCPS_Overview/ss2.png)
 
+working video - https://klnaclk-my.sharepoint.com/:v:/g/personal/thennako-ps18257_stu_kln_ac_lk/EeCgL2Ol9DpOoUBtUPRFac4BLTWX8_vwHRRgNwGpRMIHZg?e=DCMz4B
