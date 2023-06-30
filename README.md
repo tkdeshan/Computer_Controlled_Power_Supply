@@ -1,7 +1,7 @@
 # Computer_Controlled_Power_Supply
 ## Electronics Research Project - Department of Physics and Electronics - University of Kelaniya.
 
-This is a computer controlled power supply that operate using GUI. Using this power supply, user can get varyable voltage upto 12V. And also resistor values can be measured and get I-V characteristics curves of the electronic components like resistors, diodes and transistors can be ploted. GUI is used to set all the command and see all the outputs(measured values and I-V curves). This device include short circuits and overcurrent protection and all the parts controlled by ATmega328 microcontroller. I have used c# to create the GUI and Arduino to program the microcontroller. And all the circuit diagrams are include here. 
+This power supply can be operated using a graphical user interface (GUI). With this power supply, users can obtain variable voltages up to 12V. Additionally, it allows for the measurement of resistor values and the plotting of I-V characteristics curves for electronic components such as resistors, diodes, and transistors. It can also be known as a source measure unit because it is capable of both sourcing and measuring. The GUI is used to set commands and view outputs, including measured values and I-V curves. The device includes short circuit and overcurrent protection, and all the components are controlled by an ATmega328 microcontroller. C# is used to create the GUI and Arduino is used to program the microcontroller. Complete circuit diagrams are included for reference.
 
 ![View](https://github.com/tkdeshan/Computer_Controlled_Power_Supply/blob/main/CCPS_Overview/view.png)
 
@@ -9,4 +9,5 @@ This is a computer controlled power supply that operate using GUI. Using this po
 
 ![View](https://github.com/tkdeshan/Computer_Controlled_Power_Supply/blob/main/CCPS_Overview/ss2.png)
 
-working video - https://klnaclk-my.sharepoint.com/:v:/g/personal/thennako-ps18257_stu_kln_ac_lk/EeCgL2Ol9DpOoUBtUPRFac4BLTWX8_vwHRRgNwGpRMIHZg?e=DCMz4B
+https://github.com/tkdeshan/Computer_Controlled_Power_Supply/assets/100216231/9fa231f8-811e-4c62-bc20-47feb3545805
+
