@@ -94,3 +94,15 @@ C:\Users\Dell\Desktop\Project\Computer Controlled Power Supply\CCPS\CCPS\obj\Deb
 C:\Users\Dell\Desktop\Project\Computer Controlled Power Supply\CCPS\CCPS\obj\Debug\CCPS.csproj.CoreCompileInputs.cache
 C:\Users\Dell\Desktop\Project\Computer Controlled Power Supply\CCPS\CCPS\obj\Debug\CCPS.exe
 C:\Users\Dell\Desktop\Project\Computer Controlled Power Supply\CCPS\CCPS\obj\Debug\CCPS.pdb
+E:\My Projects\Computer_Controlled_Power_Supply\CCPS_C#_Code\CCPS\obj\Debug\CCPS.csproj.AssemblyReference.cache
+E:\My Projects\Computer_Controlled_Power_Supply\CCPS_C#_Code\CCPS\obj\Debug\CCPS.csproj.SuggestedBindingRedirects.cache
+E:\My Projects\Computer_Controlled_Power_Supply\CCPS_C#_Code\CCPS\obj\Debug\CCPS.ccpsHome.resources
+E:\My Projects\Computer_Controlled_Power_Supply\CCPS_C#_Code\CCPS\obj\Debug\CCPS.ccpsSetup.resources
+E:\My Projects\Computer_Controlled_Power_Supply\CCPS_C#_Code\CCPS\obj\Debug\CCPS.csproj.GenerateResource.cache
+E:\My Projects\Computer_Controlled_Power_Supply\CCPS_C#_Code\CCPS\obj\Debug\CCPS.exe
+E:\My Projects\Computer_Controlled_Power_Supply\CCPS_C#_Code\CCPS\obj\Debug\CCPS.pdb
+E:\My Projects\Computer_Controlled_Power_Supply\CCPS_C#_Code\CCPS\bin\Debug\CCPS.exe.config
+E:\My Projects\Computer_Controlled_Power_Supply\CCPS_C#_Code\CCPS\bin\Debug\CCPS.exe
+E:\My Projects\Computer_Controlled_Power_Supply\CCPS_C#_Code\CCPS\bin\Debug\CCPS.pdb
+E:\My Projects\Computer_Controlled_Power_Supply\CCPS_C#_Code\CCPS\obj\Debug\CCPS.Properties.Resources.resources
+E:\My Projects\Computer_Controlled_Power_Supply\CCPS_C#_Code\CCPS\obj\Debug\CCPS.csproj.CoreCompileInputs.cache
